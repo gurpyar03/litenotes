@@ -42,6 +42,15 @@
                width: 100%;
                height: 100vh;
                opacity: .5;
+               display: flex;
+               align-items: center;
+               justify-content: center;
+               
+            }
+            .back .tagline p{
+              color: slateblue;
+               font-size: 85px !important;
+               
             }
         </style>
     </head>
@@ -91,7 +100,9 @@
           </nav>
           <div class="container-fluid">
             <div class="back">
-                
+                <div class="tagline">
+                  <p>Save Notes Online</p>
+                </div>
             </div>
          
           </div>
