@@ -48,7 +48,7 @@
                
             }
             .back .tagline p{
-              color: slateblue;
+              color: #0D6EFD;
                font-size: 85px !important;
                
             }

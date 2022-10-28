@@ -1,8 +1,8 @@
-# LaraGigs app
+# LiteNotes app
 
 An app for Saving your daily notes Using Laravel9.0. This project is of educational purpose in which you can save your personal notes, edit notes ,update notes and delete.You will learn tempelate inheritence, Rendering components, Routes, Controllers, eloquent Models, seeding, migrations, flash messages, paginations, eloquent relationships and many more...
 
-![Alt text](/public/images/back4.jpg "LiteNotes")
+![Alt text](/public/images/screen.png "LiteNotes")
 
 ## Usage
 
@@ -23,6 +23,7 @@ php artisan migrate
 ```
 
 ### Running Then App
+```
 php artisan serve
 ```
 
