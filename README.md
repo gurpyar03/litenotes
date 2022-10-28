@@ -2,13 +2,15 @@
 
 An app for Saving your daily notes Using Laravel9.0. This project is of educational purpose in which you can save your personal notes, edit notes ,update notes and delete.You will learn tempelate inheritence, Rendering components, Routes, Controllers, eloquent Models, seeding, migrations, flash messages, paginations, eloquent relationships and many more...
 
-![Alt text](/public/images/back4.png "LaraGigs")
+![Alt text](/public/images/back4.jpg "LiteNotes")
 
 ## Usage
 
 ### Clone Project
-Clone project using: git clone https://github.com/gurpyar03/litenotes.git
-
+Clone project using: 
+```
+git clone https://github.com/gurpyar03/litenotes.git
+```
 ### Database Setup
 This app uses MySQL. To use something different, open up config/Database.php and change the default driver.
 
